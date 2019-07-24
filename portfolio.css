@@ -1,0 +1,66 @@
+/*CSS*/
+
+.bg-1{
+background-image: url("assets/images/miamisky.jpg");
+background-size: cover;
+background-position: 55%;
+}
+
+#bg-1{
+  border-radius: 40%;
+  margin-top: 253px;
+
+}
+.greeting {
+  line-height: 150px;
+  font-size: 100px;
+  font-family: 'Over the Rainbow';
+  color:whitesmoke;
+}
+
+.container-fluid h3 p{
+  font-family: 'Over the Rainbow';
+  color:whitesmoke;
+}
+
+.bg-1,
+h3,
+p,
+.bg-2,
+.bg-3,
+.bg-4 {
+  font-family: 'Raleway', sans-serif;
+  color: whitesmoke;
+}
+
+
+.container-fluid {
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+.bg-2 { 
+  background-color: #0c1c3f; /* Dark Blue */
+  color: #ffffff;
+}
+.bg-3 { 
+  background-color: #63A7DA; /* White */
+  color: #555555;
+}
+.bg-4 { 
+  background-color: #AC7B8F; /* White */
+  
+}
+.box{
+  border: 2px solid blueviolet;
+}
+
+.social-media{
+ opacity:0.7;
+ width:50%;
+ margin:auto;
+}
+.fab{
+  padding: 10px;
+  font-size: 30px;
+  }
